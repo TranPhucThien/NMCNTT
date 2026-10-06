@@ -5,5 +5,5 @@ MSSV : 2611130222 <br>
 Lớp : DH26DTA - Ngành CNTT - NLU ( Nông Lâm University ) <br>
 Email : 2611130222@st.hcmuaf.edu.vn <br>
 ## About myself
-Mình là Phúc Thiên , hiện đang là sinh viên ngành Công nghệ thông tin tại trường Đại học Nông Lâm TpHCM.
+Mình là Phúc Thiên , hiện đang là sinh viên ngành Công nghệ thông tin tại trường Đại học Nông Lâm TpHCM. <br>
 Resository này được tạo ra nhằm phát triển và học tập trong Nhập môn Công nghệ thông tin .
