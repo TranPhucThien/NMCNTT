@@ -1,6 +1,6 @@
 # NMCNTT
 ## Info
-Họ và tên : Trần Phúc Thiên
+Họ và tên : Trần Phúc Thiên <br>
 MSSV : 2611130222
 Lớp : DH26DTA - Ngành CNTT - NLU ( Nông Lâm University )
 Email : 2611130222@st.hcmuaf.edu.vn
